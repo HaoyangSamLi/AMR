@@ -1,0 +1,25 @@
+# MATLAB
+*.asv
+*.autosave
+slprj/
+sfprj/
+simulink_cache/
+simulink_codegen/
+codegen/
+*.lck
+
+# Office
+~$*.xlsx*
+~$*.docx*
+~$*.pptx*
+Parameters/*.xlsx
+
+# Local data and generated outputs
+Parameters/MatInt.csv
+Parameters/Outflow.mat
+Results/
+
+# System
+Thumbs.db
+Desktop.ini
+.DS_Store

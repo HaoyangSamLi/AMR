@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Li, Haoyang
+AU  - Hao, Han
+AU  - Sun, Xin
+AU  - Dou, Hao
+AU  - Mai, Lang
+AU  - Kang, Tingyuan
+AU  - Liu, Boyu
+AU  - Liu, Zongwei
+AU  - Zhao, Fuquan
+PY  - 2026
+DA  - 2026/06/10
+TI  - A high-resolution dataset on costs and greenhouse gas emissions of battery recycling in China
+JO  - Scientific Data
+AB  - The rapid growth of electric vehicle deployment is expected to lead to a surge in retired batteries over the coming decades, drawing increasing attention to battery recycling as part of sustainability transitions. However, existing assessments of battery recycling costs and greenhouse gas (GHG) emissions are often conducted at coarse spatiotemporal scales, limiting their ability to capture regional heterogeneity and long-term dynamics. Here, we present a high-resolution dataset of costs and GHG emissions for hydrometallurgical recycling processes in China, covering 337 prefecture-level cities from 2020 to 2060 and disaggregated across six typical battery cathode chemistries. The dataset is constructed using a process-based framework that integrates spatial and temporal heterogeneities in battery retirements, factor costs, and energy mixes. By providing a consistent and structured representation of recycling impacts, this dataset enables comparative analyses across regions and time horizons and supports further research on secondary material impact assessment and recycling network design.
+SN  - 2052-4463
+UR  - https://doi.org/10.1038/s41597-026-07577-6
+DO  - 10.1038/s41597-026-07577-6
+ID  - Li2026
+ER  - 
